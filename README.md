@@ -13,7 +13,7 @@ _And then cerulean quickly showed up in the collections of eight different desig
 _However, that blue represents millions of dollars of countless jobs, and it’s sort of comical how you think that you’ve made a choice that exempts you from the fashion industry, when in fact, you’re wearing a sweater that was selected for you by the people in this room… from a pile of “stuff.”_  
   
 ## Blue
-
+![The greatest blue ever created](blue.png)
 
 ## Contribution
 Millions of dollars of countless jobs were spent creating this enterprise-grade, scalable, reliable, secure version of Blue.  
