@@ -15,6 +15,13 @@ _However, that blue represents millions of dollars of countless jobs, and it’s
 ## Blue
 ![The greatest blue ever created](blue.png)
 
+## Technical Specifications 
+- HEX: #0571ff
+- RGB: rgba(5,113,255,255)
+- Blueness: very
+- Production status: true
+- Grade: **enterprise**
+
 ## Contribution
 Millions of dollars of countless jobs were spent creating this enterprise-grade, scalable, reliable, secure version of Blue.  
   
