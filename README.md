@@ -19,7 +19,10 @@ _However, that blue represents millions of dollars of countless jobs, and it’s
 Millions of dollars of countless jobs were spent creating this enterprise-grade, scalable, reliable, secure version of Blue.  
   
 If you would like to improve Blue, please contact our R&D team located at:  
+
+```
 404 Caversham Lakes,  
 Reading,  
 United Kingdom  
 RG1 1OL
+```
